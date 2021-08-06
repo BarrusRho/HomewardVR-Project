@@ -29,24 +29,4 @@ Press "A" to select.
 
 Press the "Start Button" to pause the game.
 
-Install instructions:
 
-Firstly, allow content from unknown sources in the Oculus app:
-
-Open the Oculus app on your PC computer.
-
-Select Settings in the left menu.
-
-Select the General tab.
-
-Next to Unknown Sources, adjust the toggle and then confirm to allow content from unknown sources.
-
-Then:
-
-Extract HomewardVR.rar.
-
-Run HomewardVR.exe.
-
-Set quality settings to Ultra to play as intended.
-
-Select "Play!" to play the game.
