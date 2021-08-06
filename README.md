@@ -1,2 +1,2 @@
 # HomewardVR-Project
-Repository for the game "Homeward".
+Repository for the game "Homeward"
