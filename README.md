@@ -48,5 +48,5 @@ Then:
 
 Extract HomewardVR.rar.
 Run HomewardVR.exe.
- Set quality settings to Ultra to play as intended.
- Select "Play!" to play the game.
+Set quality settings to Ultra to play as intended.
+Select "Play!" to play the game.
