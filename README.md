@@ -3,7 +3,7 @@ Repository for the game "Homeward".
 
 Homeward is a seated virtual reality (VR) experience game that I created as part of my thesis during the final year of my Game Design university degree.
 
-Homeward was implemented in conjunction with the Virtual Reality Sickness Reduction tool (VRSRT) - a game design tool I researched, designed and built - which aims to provide developers of VR games with numerous ways in which to reduce the impact of VR sickness on players.  Consequently, Homeward should be very comfortable to play and have low instances of VR sickness.
+Homeward was implemented in conjunction with the Virtual Reality Sickness Reduction Tool (VRSRT) - a game design tool I researched, designed and built - which aims to provide developers of VR games with numerous ways in which to reduce the impact of VR sickness on players.  Consequently, Homeward should be very comfortable to play and have low instances of VR sickness.
 
 Developed for the Oculus Rift on PC and made in Unity.
 
